@@ -6,7 +6,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //session
-global.sessionid = '00000000' //'ur session id මෙතනට ඔයා whatsapp link කර කෝඩ් එක දාන්න'
+global.sessionid = 'FXYSYDL2' //'ur session id මෙතනට ඔයා whatsapp link කර කෝඩ් එක දාන්න'
 
 //owmner v card
 global.ytname = "YT: Avi NET-Hunter" //ur yt chanel name
